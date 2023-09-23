@@ -1,0 +1,6 @@
+Game Results
+---------------------------------
+The total number of wins is: 4
+The total number of losses is: 3
+The total number of ties is: 0
+Total games played is: 7
